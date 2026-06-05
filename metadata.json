@@ -1,0 +1,8 @@
+{
+  "name": "Cultural Events Hub",
+  "description": "An information and reference system for cultural events. Quickly find cultural events, and provide a channel for organizers to publish. The principles of development are simplicity, locality, relevance, and mobile-first.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
